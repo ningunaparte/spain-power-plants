@@ -7,6 +7,8 @@ GeoJSON datasets of Spain's electricity generation installations and high-voltag
 **→ Live visualization: [red.ningunaparte.net](https://red.ningunaparte.net)**  
 **→ Author: [Victor San Vicente](https://ningunaparte.net)**
 
+This dataset was built to power the [red.ningunaparte.net](https://red.ningunaparte.net) visualization. Getting clean, geocoded, technology-normalized data from Spain's official registries took considerable work — province name formats, missing coordinates, cross-referencing two separate registries — so it seemed worth sharing in case it saves someone else the same effort.
+
 ---
 
 ## Files
