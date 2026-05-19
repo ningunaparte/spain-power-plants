@@ -5,7 +5,7 @@ GeoJSON datasets of Spain's electricity generation installations and high-voltag
 [![Spain power plants 3D map](og-image.jpg)](https://red.ningunaparte.net)
 
 **→ Live visualization: [red.ningunaparte.net](https://red.ningunaparte.net)**  
-**→ Author: [ningunaparte.net](https://ningunaparte.net)**
+**→ Author: [Victor San Vicente](https://ningunaparte.net)**
 
 ---
 
